@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "911103054664",
+    "firebase_url": "https://airlines-444cf.firebaseio.com",
+    "project_id": "airlines-444cf",
+    "storage_bucket": "airlines-444cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911103054664:android:00ec3f49005656daa3197d",
+        "android_client_info": {
+          "package_name": "com.example.itaykan.fbairlines_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911103054664-8q59bkdiaop82icuob9bo8b5urld4414.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC5_e46VqqNpR0xdalC-iMIM5vAgbe_AQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911103054664-8q59bkdiaop82icuob9bo8b5urld4414.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
